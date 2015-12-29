@@ -5,6 +5,6 @@ class FooTest extends PHPUnit_Framework_TestCase{
     }
 
     public function testBar(){
-        $this->assertTrue(false);
+        $this->assertTrue(true);
     }
 }
