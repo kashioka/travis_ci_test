@@ -1,6 +1,3 @@
 test:
   override:
     - phpunit tests
-deployment:
-  staging:
-    branch: master
