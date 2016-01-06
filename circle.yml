@@ -3,6 +3,4 @@ test:
     - phpunit tests
 deployment:
   staging:
-    branch: develop
-  production:
     branch: master
